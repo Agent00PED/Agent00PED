@@ -48,10 +48,9 @@
 ### 🌍 Connect with Me
 
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/)  
-📧 Email: *[wongsathon.uk@mail.wu.ac.th]*
-📧 Email 2: *[hum01122548@gmail.com]*  
-📘 Facebook: *[วงศธร อยู่แก้ว]*  
-📸 Instagram: *[masterjk_0112]*  
+📧 Email: *wongsathon.uk@mail.wu.ac.th, **hum01122548@gmail.com*  
+📘 Facebook: *วงศธร อยู่แก้ว*  
+📸 Instagram: *masterjk_0112*  
 
 > *Feel free to drop a meme or a bug report... I accept both.* 😆🐛
 
