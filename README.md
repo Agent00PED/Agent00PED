@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔍 Alias: **Agent00PED**  
+- 🔍 Alias: **Wongsathon U-kaew**  
 - 🎮 Game Maker by heart – Web, Console, PC, Anything!
 - 🤖 Currently into: **Computer Engineering - AI**, game dev, and AI chatbots  
 - 🌐 Always building something weird, fun, or useful (sometimes all three 😎)
